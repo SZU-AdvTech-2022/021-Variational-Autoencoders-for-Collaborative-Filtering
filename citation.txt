@@ -1,0 +1,7 @@
+@inproceedings{REPO-021,
+    author = "Liang, Dawen and Krishnan, Rahul G and Hoffman, Matthew D and Jebara, Tony",
+    booktitle = "Proceedings of the 2018 world wide web conference",
+    pages = "689--698",
+    title = "{Variational Autoencoders for Collaborative Filtering}",
+    year = "2018"
+}
